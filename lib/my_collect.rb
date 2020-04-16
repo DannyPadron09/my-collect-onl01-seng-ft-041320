@@ -10,6 +10,6 @@ def my_collect(array)
     #increment by one
     i += 1
   end
-  yielded values 
+  yielded values
   #outside of while loop return array with yielded values
 end
